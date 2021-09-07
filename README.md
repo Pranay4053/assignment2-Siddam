@@ -17,3 +17,19 @@ I like **Hyderabad** because its the best city lo live in **India** and best tou
 
 [AboutMelink](AboutMe.md)
 
+---
+### Recommended Food
+
+Below table shows the recommended food items and location , amount to be paid for their purchase.
+
+|  Food Items    |    Location      |     Amount     |
+|   ------       |    --------      |    --------    |
+| Mutton Palav   |   Hyderabad      |      450       |
+| Sambbar Idli   |   Chennai        |      200       |
+| Keema Biryani  |   Bengalore      |      350       |
+| Dal fry        |   Rajasthan      |      230       |
+
+---
+
+
+
