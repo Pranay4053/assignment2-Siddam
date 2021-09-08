@@ -31,5 +31,10 @@ Below table shows the recommended food items and location , amount to be paid fo
 
 ---
 
+### Quotes
+
+> Life is never fair, and perhaps it is a good thing for most of us that it is not - *Oscar Wilde*
+> Anyone who has never made a mistake has never tried anything new - *Albert Einstein*
+
 
 
