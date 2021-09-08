@@ -38,12 +38,15 @@ Below table shows the recommended food items and location , amount to be paid fo
 
 ---
 
-### Graphs Traversal
+### Shortest Paths
 
-> In computer science, graph traversal refers to the process of visiting each vertex in a graph. Such traversals are classified by the order in which the vertices are visited. Tree traversal is a special case of graph traversal
-(<https://en.wikipedia.org/wiki/Graph_traversal>)
+> In graph theory, the shortest path problem is the problem of finding a path between two vertices (or nodes) in a graph such that the sum of the weights of its constituent edges is minimized.
+
+The problem of finding the shortest path between two intersections on a road map may be modeled as a special case of the shortest path problem in graphs, where the vertices correspond to intersections and the edges correspond to road segments, each weighted by the length of the segment.
+(<https://en.wikipedia.org/wiki/Shortest_path_problem>)
 
 ```
+
 const int INF = 1000000000;
 vector<vector<pair<int, int>>> adj;
 
